@@ -35,8 +35,8 @@ Users should be able to:
 - ![Small Screen](/screenshots/small-screen.png)
 
 ### Links
-- [Solution URL](https://github.com/Austinet/easy-bank-landing-page.git)
-- [Live site URL](https://austinet.github.io/easy-bank-landing-page/)
+- [Solution URL](https://github.com/Austinet/easybank-landing-page.git)
+- [Live site URL](https://austinet.github.io/easybank-landing-page/)
 
 ## My process
 
