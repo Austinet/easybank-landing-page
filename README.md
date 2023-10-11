@@ -27,9 +27,9 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 
 ### Screenshot
-- Small Screen
+- Desktop Screen
 - ![Desktop Screen](/screenshots/desktop-screen.png)
-- Small Screen
+- Medium Screen
 - ![Medium Screen](/screenshots/medium-screen.png)
 - Small Screen
 - ![Small Screen](/screenshots/small-screen.png)
