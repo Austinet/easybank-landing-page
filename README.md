@@ -27,11 +27,11 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 
 ### Screenshot
-- Desktop Screen
+Desktop Screen
 - ![Desktop Screen](/screenshots/desktop-screen.png)
-- Medium Screen
+ Medium Screen
 - ![Medium Screen](/screenshots/medium-screen.png)
-- Small Screen
+ Small Screen
 - ![Small Screen](/screenshots/small-screen.png)
 
 ### Links
