@@ -40,7 +40,7 @@ const Header = () => {
           </div>
           <ul
             className={`absolute lg:static bg-white rounded-md flex justify-center items-center gap-4 flex-col lg:flex-row lg:justify-between w-11/12 lg:w-2/5 mx-auto ${
-              isMenuOpen ? "top-[-45rem]" : "top-[5rem]"
+              isMenuOpen ?   "top-[5rem]" :"top-[-45rem]"
             } py-5 shadow-md  lg:shadow-none`}
           >
             {links.map((link) => (
@@ -58,7 +58,7 @@ const Header = () => {
             className="lg:hidden outline-none"
             onClick={() => setIsMenuOpen(!isMenuOpen)}
           >
-            {isMenuOpen ? <MenuIcon /> : <CloseIcon />}
+            {isMenuOpen ?  <CloseIcon />: <MenuIcon />}
           </button>
           <Link className="hidden lg:block lg:w-[13.5rem] w-[11.5rem] py-[0.9rem] px-7 rounded-[2.35rem] bg-gradient-to-r from-limeGreen to-brightCyan text-white font-semibold text-[1.25rem] text-center hover:opacity-[0.85]">
             Request Invite
